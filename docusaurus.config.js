@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://ayan-b.github.io',
-  baseUrl: '/docusaurus/',
+  baseUrl: '/docusaurus-test/',
   favicon: 'img/favicon.ico',
   organizationName: 'ayan-b', // Usually your GitHub org/user name.
   projectName: 'docusaurus-test', // Usually your repo name.
